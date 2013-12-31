@@ -1,0 +1,4 @@
+[01/Dec/2013 15:33:26] ERROR [app.controller.estatisticas_controller:118] (1146, "Table 'acidentes_rodovias.estatisticas_uf' doesn't exist")
+[01/Dec/2013 17:11:30] ERROR [app.controller.consultabasica_controller:103] Data invalida inserida: 
+[08/Dec/2013 16:28:19] ERROR [app.controller.consultabasica_controller:104] Data invalida inserida: 
+[08/Dec/2013 18:08:08] ERROR [app.controller.consultabasica_controller:51] "Key 'uf_id' not found in <QueryDict: {}>"
